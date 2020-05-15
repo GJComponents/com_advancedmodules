@@ -7,6 +7,9 @@
 		</field>
 	</fieldset>
 
+
+
+
 	<fieldset name="extra">
 		<field name="extra1" type="text" default="" label="AMM_EXTRA_FIELD_LABEL" description="AMM_EXTRA_FIELD_LABEL_DESC" />
 		<field name="extra2" type="text" default="" label="AMM_EXTRA_FIELD_LABEL" description="AMM_EXTRA_FIELD_LABEL_DESC" />
